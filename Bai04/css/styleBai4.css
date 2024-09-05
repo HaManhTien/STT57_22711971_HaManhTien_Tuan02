@@ -1,0 +1,136 @@
+.container{
+    height: 790px;
+    width: 790px;
+    margin: auto;
+    border: 1px solid red;
+    padding-right: 20px;
+}
+header{
+    height: 75px;
+    width: 790px;
+    text-align: right;
+    border-bottom: 2px solid orange;
+}
+nav{
+    float: left;
+    height: 714px;
+    width: 190px;
+    background-image: url(../images/back.jpg);
+    background-repeat: repeat; 
+    padding: 0;
+}
+nav ul{
+    width: 80%;
+    list-style: none;
+    line-height: 20px;
+    color: rgb(101, 18, 180);
+    font-size: 17px;
+    margin-left: -30px;
+    margin-top: 0px;
+}
+nav ul li{
+    padding-top: 5px;
+    height: 28px;
+    border-bottom: 1.5px dashed red ;
+}
+section{
+    float: left;
+    height: 680px;
+    width: 590px;
+    line-height: 22px;
+    padding-left: 10px;
+}
+#khung{
+    height: 250px;
+    width: 268px;
+    margin-left: 312px;
+    background-color: antiquewhite;
+    border-top: 5px solid orange;
+    border-left: 5px solid orange;
+    border-right: 5px solid brown;
+    border-bottom: 5px solid brown;
+}
+#left{
+    margin-top: -20px;
+    float: left;
+    height: 250px;
+    width: 305px;
+}
+#khung ul li{
+    color: brown;
+    line-height:18px;
+}
+footer{
+    float: left;
+    height: 30px;
+    border-top: 2px solid orange;
+    width: 590px;
+    color: orange;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 5px;
+}
+a{
+    text-decoration: none;
+}
+#bg{
+    float:left ;
+    width: 474px;
+    height: 616px;
+    background-image: url(../images/sample.jpg);
+}
+section #bg #tag1{
+    margin-left: 400px;
+    margin-top: -20px;
+    width: 142px;
+    height: 147px;
+    background-color: antiquewhite;
+    border-top: 4px solid rgb(85, 84, 81);
+    border-left: 4px solid rgb(85, 84, 81);
+    border-right: 4px solid rgb(240, 224, 224);
+    border-bottom: 4px solid rgb(240, 224, 224);
+    font-size: 15px;
+    color: brown;
+    line-height: 13px;
+    padding-left: 5px;
+}
+section #bg #tag2{
+    margin-left: -40px;
+    margin-top: 140px;
+    width: 138px;
+    height: 95px;
+    background-color: antiquewhite;
+    border-top: 4px solid rgb(85, 84, 81);
+    border-left: 4px solid rgb(85, 84, 81);
+    border-right: 4px solid rgb(240, 224, 224);
+    border-bottom: 4px solid rgb(240, 224, 224);
+    font-size: 15px;
+    color: brown;
+    line-height: 13px;
+    padding-left: 5px;
+}
+section #bg #tag3{
+    margin-left: 370px;
+    margin-top: 30px;
+    width: 140px;
+    height: 107px;
+    background-color: antiquewhite;
+    border-top: 4px solid rgb(85, 84, 81);
+    border-left: 4px solid rgb(85, 84, 81);
+    border-right: 4px solid rgb(240, 224, 224);
+    border-bottom: 4px solid rgb(240, 224, 224);
+    font-size: 15px;
+    color: brown;
+    line-height: 13px;
+    padding-left: 5px;
+}
+h2{
+    font-size: 19px;
+    color: rgb(246, 137, 59);
+}
+h1{
+    color: rgb(246, 137, 59);
+}
+p{
+    color: brown;
+}

@@ -1,0 +1,35 @@
+#container{
+    height: 600px;
+    width: 1000px;
+   
+    border: 2px solid rgb(240, 163, 48);
+    margin: auto;
+}
+ a{
+    text-decoration: none;
+}
+section a{
+    color: red;
+    text-decoration: underline;
+}
+header{
+    width: 1000px;
+    height: 70px;
+    text-align: center;
+    font-size: 32px;
+    color: brown;
+    background-color: white;
+    text-shadow:15px 15px 10px  brown;
+    padding-top:  25px;
+    border-bottom: 1px solid black;
+}
+
+h1{
+    margin-top: -9px;
+    background-color: rgb(203, 231, 185);
+    color: brown;
+}
+section{
+    
+    height: 500px;
+}

@@ -1,0 +1,108 @@
+.container{
+    height: 950px;
+    width: 1000px;
+    background-image: url(../image/background.jpg);
+    background-repeat: repeat;
+    margin: auto;
+}
+
+.container header{
+    height: 135px;
+    width: 1000px;
+    padding-top : 15px;
+    margin-left: 8px;
+}
+.container header img{
+    width: 775px;
+    height: 115px;
+}
+.container nav{
+    float: left;
+    width: 195px;
+    height: 758px;
+    padding: 0;
+    margin-left: 8px;
+    border-right: 2px solid rgb(60, 235, 144) ;
+}
+a{
+    text-decoration: none;
+}
+.container nav ul{
+    width: 175px;
+    height: 190px;
+    list-style: none;
+    background-color: #f0f8ff;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    box-shadow:  4px 4px 4px #f0f8ff, 4px 4px 4px #f0f8ff, 4px 4px 4px #f0f8ff;
+}
+.container nav ul li{
+    text-align: left;
+    margin-left: 5px;
+    margin-bottom: 10px; 
+    color: blueviolet;
+    font-size: 22px;
+}
+.container section{
+    float:left;
+    width: 772px;
+    height: 758px;
+    color: #f0f8ff;
+    margin-left: 15px;
+    margin-left: 20px;
+}
+.container section h1{
+    width: 500px;
+    height: 35px;
+    font-style: italic;
+    margin: 0;
+    font-size: 30px;
+    color: #f0f8ff;
+    letter-spacing: 8px;
+    font-weight: bold;
+    padding-left: 70px;
+    background-color:rgb(16, 222, 43) ;
+}
+.container section #left{
+    float: left;
+    width:565px;
+    height: 300px;
+    margin-right: 5px;
+}
+p{
+    font-size: 16.5px;
+}
+.container section img{
+
+    margin-top: 17px;
+    height: 300px;
+    width: 202px;
+}   
+.container section h3{
+    width: 315px;
+    height: 21px;
+    margin: 0;
+    font-size: 16.5px;
+    color: #f0f8ff;
+    font-weight: bold;
+    padding-left: 10px;
+    background-color:rgb(16, 222, 43) ;
+}
+.container footer{
+    width: 1000px;
+    height: 35px;
+    float: left;
+    border-top: 2px solid rgb(60, 235, 144) ;
+    padding-top: 5px;
+    text-align: center;
+    color: #f0f8ff;
+    margin-top: 10px;
+}
+#background-index{
+    height: 650px;
+    width: 1000px;
+    background-image: url(../image/background.jpg);
+    background-repeat: repeat;
+    margin: auto;
+}
